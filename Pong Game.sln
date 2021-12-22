@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pong Game", "Pong Game.vcxproj", "{DF405A41-7CC3-469F-A396-044824FEF476}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pong Game 1.1", "..\Pong Game 1.1\Pong Game 1.1.vcxproj", "{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		PongGame Development|x64 = PongGame Development|x64
+		PongGame Development|x86 = PongGame Development|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Debug|x64.ActiveCfg = Debug|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Debug|x64.Build.0 = Debug|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Debug|x86.Build.0 = Debug|Win32
+		{DF405A41-7CC3-469F-A396-044824FEF476}.PongGame Development|x64.ActiveCfg = PongGame Development|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.PongGame Development|x64.Build.0 = PongGame Development|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.PongGame Development|x86.ActiveCfg = PongGame Development|Win32
+		{DF405A41-7CC3-469F-A396-044824FEF476}.PongGame Development|x86.Build.0 = PongGame Development|Win32
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Release|x64.ActiveCfg = Release|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Release|x64.Build.0 = Release|x64
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Release|x86.ActiveCfg = Release|Win32
+		{DF405A41-7CC3-469F-A396-044824FEF476}.Release|x86.Build.0 = Release|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Debug|x64.ActiveCfg = Debug|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Debug|x64.Build.0 = Debug|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Debug|x86.Build.0 = Debug|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.PongGame Development|x64.ActiveCfg = PongGame Development|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.PongGame Development|x64.Build.0 = PongGame Development|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.PongGame Development|x86.ActiveCfg = PongGame Development|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.PongGame Development|x86.Build.0 = PongGame Development|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Release|x64.ActiveCfg = Release|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Release|x64.Build.0 = Release|x64
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Release|x86.ActiveCfg = Release|Win32
+		{9CD1DE8C-EBB9-40FE-8EA7-7609422342A5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570D23E0-E18D-475B-9210-3E3B158725D3}
+	EndGlobalSection
+EndGlobal
